@@ -15,3 +15,7 @@ Trata-se de uma aplicação com o objetivo de servir para o gerenciamento de cus
   O projeto iniciará uma simulação de Back-end na porta local 5000 e assim, será possível acessar dados salvos, mesmo após o projeto ser fechado. Isto é possível, por conta de uma dependência do Node chamada "json-server" e através dela, os dados serão salvos no arquivo "db.json" que simula um banco de dados.
 
 4. Agora, o projeto está pronto para uso.
+
+LinkedIn: https://www.linkedin.com/in/luiz-eduardo-perez-callegario-592004187/
+
+Email: luiz.negociosegestao@gmail.com
